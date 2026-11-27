@@ -1,1 +1,4 @@
-
+dbo.ff_VerificaExcedentes - 6 reemplazos.
+dbo.FF_CALCULARCOMPENSACION - 1 reemplazo.
+dbo.ff_guardarCompensacionBonoAuto - 1 reemplazo.
+dbo.ff_CalculaExcedentes
